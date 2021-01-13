@@ -1,2 +1,26 @@
-# Jetbrains-Datalore
-This repository is to discover the new alternative to Google colab, Datalore by Jetbrains. I wrote a Medium article about Datalore. 
+Datalore by Jetbrains
+An Alternative To Google Colab and Jupyter Notebook
+
+Jupyter Notebook
+
+Collaborative Notebooks
+
+An Alternative To Google Colab
+
+Getting Started With DataLore
+
+Changing Kernel
+
+Pre-installed Libraries
+
+Library Manager
+
+Attaching Files
+
+Sheets In Notebooks
+
+Editing Notebooks
+
+Sharing Notebooks
+
+Commenting On Notebooks
